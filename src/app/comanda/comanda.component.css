@@ -1,0 +1,20 @@
+.comanda {
+
+    width: 600px;
+    height: 100%;
+    background-color: beige;
+    text-align: center;
+}
+
+hr {
+
+    border-bottom: 1px dotted black;
+    border-top: none;
+}
+ p{
+     font-size: 1.5em;
+ }
+
+ h2 {
+     padding-top: 20px;
+ }
